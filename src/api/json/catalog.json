@@ -8598,6 +8598,15 @@
       }
     },
     {
+      "name": "Kubernetes Deployment Schema",
+      "description": "Schema definition for Kubernetes deployment manifests used in container orchestration",
+      "url": "https://www.schemastore.org/kubernetes-deployment-1.28.json",
+      "versions": {
+        "1.28": "https://www.schemastore.org/kubernetes-deployment-1.28.json",
+        "1.27": "https://www.schemastore.org/kubernetes-deployment-1.27.json"
+      }
+    },
+    {
       "name": "Evolving Resolutive Process notation",
       "description": "For describing contradiction-based processes with storing changes and authors",
       "fileMatch": ["*.erpn.yml", "*.erpn.yaml", "*.erpn.toml", "*.erpn.json"],
